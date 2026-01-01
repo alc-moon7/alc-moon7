@@ -17,7 +17,7 @@
 - Build dynamic, responsive web apps
 - Ship cross-platform mobile apps
 - Integrate APIs and set up secure authentication
-- Write clean, efficient code in C, C++, Java, and Python
+- Write clean, efficient code in C, C++, Java, Python, React, Dart etc.
 
 ## Tech Stack
 <p align="center">
