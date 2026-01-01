@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/alc-moon7/alc-moon7/main/assets/banner.svg" alt="Moon banner" />
 </p>
 
-<h1 align="center">Moon🌙</h1>
+<h1 align="center">Moon</h1>
 <p align="center">
   Web and Mobile Developer | React / Flutter | API Integration | Auth Setup | Hosting
 </p>
@@ -48,29 +48,35 @@
 - Mobile app development
 
 ## Featured Projects
-<p align="center">
-  <a href="https://github.com/alc-moon7/Swift-Chat-Android-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alc-moon7&repo=Swift-Chat-Android-App&hide_border=true&theme=algolia" />
-  </a>
-  <a href="https://github.com/alc-moon7/edtech-x">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alc-moon7&repo=edtech-x&hide_border=true&theme=algolia" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/alc-moon7/SFRS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alc-moon7&repo=SFRS&hide_border=true&theme=algolia" />
-  </a>
-  <a href="https://github.com/alc-moon7/Super_Market_Billing_system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alc-moon7&repo=Super_Market_Billing_system&hide_border=true&theme=algolia" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/alc-moon7/Swift-Chat-Android-App"><b>Swift-Chat-Android-App</b></a><br />
+      <sub>Android chat app</sub>
+    </td>
+    <td>
+      <a href="https://github.com/alc-moon7/edtech-x"><b>edtech-x</b></a><br />
+      <sub>EdTech web platform</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/alc-moon7/SFRS"><b>SFRS</b></a><br />
+      <sub>Core system project</sub>
+    </td>
+    <td>
+      <a href="https://github.com/alc-moon7/Super_Market_Billing_system"><b>Super_Market_Billing_system</b></a><br />
+      <sub>Supermarket billing system</sub>
+    </td>
+  </tr>
+</table>
 
 ## GitHub Stats
 <p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=alc-moon7&show_icons=true&rank_icon=github&hide_border=true&theme=algolia&cache_seconds=86400" height="165" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alc-moon7&layout=compact&hide_border=true&theme=algolia&cache_seconds=86400" height="165" />
+  <img alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alc-moon7&theme=algolia" />
 </p>
 
 <p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=alc-moon7&hide_border=true&theme=algolia" height="165" />
+  <img alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alc-moon7&theme=algolia" />
+  <img alt="Top languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alc-moon7&theme=algolia" />
 </p>
