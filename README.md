@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/alc-moon7/alc-moon7/main/assets/banner.svg" alt="Moon banner" />
 </p>
 
-<h1 align="center">Moon</h1>
+<h1 align="center">Moon🌙</h1>
 <p align="center">
   Web and Mobile Developer | React / Flutter | API Integration | Auth Setup | Hosting
 </p>
