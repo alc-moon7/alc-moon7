@@ -1,49 +1,50 @@
-<h1 align="center">Hi 👋, I'm Moon</h1>
-<h3 align="center">CSE Student | Full‑Stack Web Developer</h3>
+﻿<p align="center">
+  <img src="https://raw.githubusercontent.com/alc-moon7/alc-moon7/main/assets/banner.svg" alt="Moon banner" />
+</p>
+
+<h1 align="center">Moon</h1>
+<p align="center">
+  Web and Mobile Developer | React / Flutter | API Integration | Auth Setup | Hosting
+</p>
 
 <p align="center">
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/alc-moon7">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
-  </a>
+  <a href="https://github.com/alc-moon7">github.com/alc-moon7</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-I’m a passionate **Computer Science & Engineering student** with a strong interest in  
-**full‑stack web development**. I love building **clean, responsive, and dynamic** web apps.
+## Focus
+- Build dynamic, responsive web apps
+- Ship cross-platform mobile apps
+- Integrate APIs and set up secure authentication
+- Write clean, efficient code in C, C++, Java, and Python
 
----
-
-## 🚀 Currently I’m
-- 🌐 Exploring **Next.js** for server‑side rendering & routing  
-- 📚 Building real‑world projects with **MERN Stack**  
-- ⚡ Improving **performance, reusability & clean architecture**
-
----
-
-## 🛠 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,postgres,python,git,github,figma,cpp,java" />
-</p>
-
----
-
-## 📊 GitHub Stats
+## Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alc-moon7&show_icons=true&theme=tokyonight" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-0b1320?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=FDE047" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-1f2937?style=for-the-badge&logo=openjdk&logoColor=F97316" />
+  <img alt="C" src="https://img.shields.io/badge/C-1f2937?style=for-the-badge&logo=c&logoColor=A8B9CC" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-1f2937?style=for-the-badge&logo=c%2B%2B&logoColor=5E97D0" />
+</p>
+
+## What I Can Help With
+- Dynamic website development
+- API integration and data-driven features
+- Login and authentication setup
+- Hosting and deployment
+- Mobile app development
+
+## GitHub Stats
+<p align="center">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=alc-moon7&show_icons=true&hide_rank=true&hide_border=true&theme=algolia" height="165" />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alc-moon7&layout=compact&hide_border=true&theme=algolia" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alc-moon7&layout=compact&theme=tokyonight" />
+  <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alc-moon7&hide_border=true&theme=algolia" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alc-moon7&theme=tokyonight" />
-</p>
+## Featured Work
+Pin your best repositories below.
