@@ -39,7 +39,7 @@ jobs:
         shell: bash
         run: |
           cache_key="${GITHUB_RUN_ID}"
-          sed -E -i "s/([&]v=)[0-9]+/\1${cache_key}/g" README.md
+          sed -E -i "s/([?&]v=)[0-9]+/\1${cache_key}/g" README.md
 
       - name: Commit refreshed README
         shell: bash
