@@ -27,7 +27,7 @@ jobs:
       - name: Refresh card cache key
         shell: bash
         run: |
-          cache_key="$(date -u +%Y%m%d)"
+          cache_key="${GITHUB_RUN_ID}"
           sed -E -i "s/([&]v=)[0-9]+/\1${cache_key}/g" README.md
 
       - name: Commit refreshed README
