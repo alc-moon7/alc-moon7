@@ -73,10 +73,10 @@
 
 ## GitHub Stats
 <p align="center">
-  <img alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alc-moon7&theme=algolia&v=45156046117" />
+  <img alt="Profile details" src="https://raw.githubusercontent.com/alc-moon7/alc-moon7/main/profile-summary-card-output/algolia/0-profile-details.svg?v=45156046117" />
 </p>
 
 <p align="center">
-  <img alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alc-moon7&theme=algolia&v=45156046117" />
-  <img alt="Top languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alc-moon7&theme=algolia&v=45156046117" />
+  <img alt="GitHub stats" src="https://raw.githubusercontent.com/alc-moon7/alc-moon7/main/profile-summary-card-output/algolia/3-stats.svg?v=45156046117" />
+  <img alt="Top languages" src="https://raw.githubusercontent.com/alc-moon7/alc-moon7/main/profile-summary-card-output/algolia/1-repos-per-language.svg?v=45156046117" />
 </p>
